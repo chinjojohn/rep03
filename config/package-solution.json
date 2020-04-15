@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "jqueryt-wp-demo-client-side-solution",
+    "id": "374e44c0-d2fb-46d8-afc3-ff8dfbae5f6c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/jqueryt-wp-demo.sppkg"
+  }
+}
